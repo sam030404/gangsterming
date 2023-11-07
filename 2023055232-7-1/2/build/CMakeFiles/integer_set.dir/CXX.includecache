@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-7-1/2/intset.cc
+iostream
+-
+intset.h
+/root/workspace/2023055232-7-1/2/intset.h
+algorithm
+-
+
+/root/workspace/2023055232-7-1/2/intset.h
+vector
+-
+
+/root/workspace/2023055232-7-1/2/main.cc
+iostream
+-
+intset.h
+/root/workspace/2023055232-7-1/2/intset.h
+

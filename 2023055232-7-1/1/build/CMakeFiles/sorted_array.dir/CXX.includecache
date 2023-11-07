@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-7-1/1/main.cc
+iostream
+-
+vector
+-
+algorithm
+-
+sorted.h
+/root/workspace/2023055232-7-1/1/sorted.h
+
+/root/workspace/2023055232-7-1/1/sorted.cc
+iostream
+-
+vector
+-
+algorithm
+-
+sorted.h
+/root/workspace/2023055232-7-1/1/sorted.h
+
+/root/workspace/2023055232-7-1/1/sorted.h
+iostream
+-
+vector
+-
+

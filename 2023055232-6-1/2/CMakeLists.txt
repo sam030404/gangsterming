@@ -1,0 +1,1 @@
+add_executable(main main.cc minimal_fighter.cc)
