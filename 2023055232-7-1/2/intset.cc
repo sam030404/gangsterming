@@ -14,6 +14,8 @@ IntegerSet::IntegerSet(){
 
 IntegerSet::~IntegerSet(){
 
+
+
 }
 
 void IntegerSet::AddNumber(int num){
