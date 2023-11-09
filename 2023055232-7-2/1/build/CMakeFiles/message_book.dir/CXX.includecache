@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-7-2/1/main.cc
+message.h
+/root/workspace/2023055232-7-2/1/message.h
+iostream
+-
+
+/root/workspace/2023055232-7-2/1/message.cc
+message.h
+/root/workspace/2023055232-7-2/1/message.h
+
+/root/workspace/2023055232-7-2/1/message.h
+vector
+-
+string
+-
+map
+-
+

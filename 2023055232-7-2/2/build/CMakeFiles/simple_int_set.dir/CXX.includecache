@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-7-2/2/main.cc
+setfunc.h
+/root/workspace/2023055232-7-2/2/setfunc.h
+
+/root/workspace/2023055232-7-2/2/setfunc.cc
+setfunc.h
+/root/workspace/2023055232-7-2/2/setfunc.h
+
+/root/workspace/2023055232-7-2/2/setfunc.h
+iostream
+-
+set
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/message_book.dir/main.cc.o CMakeFiles/message_book.dir/message.cc.o  -o message_book 
