@@ -18,6 +18,9 @@ vector<int> MessageBook::GetNumbers(){
     for(map<int, string>::iterator it = messages_.begin(); it != messages_.end(); ++it)
     {
         v.push_back(it->first);
+    
+    
+    
     }
     return v;
 }
@@ -28,6 +31,8 @@ const string& MessageBook::GetMessage(int num){
 }
 
 MessageBook::MessageBook(){
+
+
 
 }
 MessageBook::~MessageBook(){
