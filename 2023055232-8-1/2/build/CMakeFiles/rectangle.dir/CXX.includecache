@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-8-1/2/main.cc
+iostream
+-
+string
+-
+rect.h
+/root/workspace/2023055232-8-1/2/rect.h
+
+/root/workspace/2023055232-8-1/2/rect.cc
+iostream
+-
+rect.h
+/root/workspace/2023055232-8-1/2/rect.h
+
+/root/workspace/2023055232-8-1/2/rect.h
+iostream
+-
+

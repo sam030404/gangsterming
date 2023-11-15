@@ -1,0 +1,1 @@
+add_executable(number number.cc main.cc)

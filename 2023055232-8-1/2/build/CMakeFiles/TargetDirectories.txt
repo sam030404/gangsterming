@@ -1,0 +1,3 @@
+/root/workspace/2023055232-8-1/2/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/2023055232-8-1/2/build/CMakeFiles/rectangle.dir
+/root/workspace/2023055232-8-1/2/build/CMakeFiles/edit_cache.dir
