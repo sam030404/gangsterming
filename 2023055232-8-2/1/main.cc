@@ -8,7 +8,10 @@ int main(){
     cin >> c_w >> c_h;
     while(1){
         cin >> shape;
-        if(shape == "rect"){
+        if(shape == "quit"){
+            break;
+        }
+        else if(shape == "rect"){
             cin >> x >> y >> width >> height >> a;
             Rectangle b(x,y,width,height,a);
             cout << "Area: " << b.GetArea() << endl;
@@ -29,9 +32,7 @@ int main(){
             cout << "Perimeter: " << b.GetPerimeter() << endl;
             b.Draw(c_w,c_h);
         }
-        else if(shape == "quit"){
-            break;
-        }
+        
     }
     return 0;
 }

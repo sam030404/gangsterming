@@ -1,0 +1,1 @@
+add_executable(draw_shape main.cc shapes.cc)
