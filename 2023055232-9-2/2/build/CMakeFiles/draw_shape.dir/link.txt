@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/draw_shape.dir/main.cc.o CMakeFiles/draw_shape.dir/canvas.cc.o  -o draw_shape 

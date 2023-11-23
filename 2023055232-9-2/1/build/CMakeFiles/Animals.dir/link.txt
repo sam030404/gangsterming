@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Animals.dir/animal.cc.o CMakeFiles/Animals.dir/main.cc.o  -o Animals 

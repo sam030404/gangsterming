@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-9-2/2/canvas.cc
+canvas.h
+/root/workspace/2023055232-9-2/2/canvas.h
+
+/root/workspace/2023055232-9-2/2/canvas.h
+iostream
+-
+vector
+-
+string
+-
+
+/root/workspace/2023055232-9-2/2/main.cc
+canvas.h
+/root/workspace/2023055232-9-2/2/canvas.h
+
