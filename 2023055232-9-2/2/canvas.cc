@@ -131,12 +131,16 @@ Diamond::Diamond(int x_,int y_,int height_,char brush_){
     brush = brush_;
 }
 
-void Diamond::Draw(Canvas* canvas){
+void Diamond::Draw(Canvas* canvas)
+{
     string space = "";
     space.push_back(brush);
-    for(int i =0;i<(height*2)+1; i++){
-        if(i<=height){
-            for(int j = 0; j <= i; j++){
+    for(int i = 0; i < height*2+1; i++)
+    {
+        if(i <= height)
+        {
+            for(int j = 0; j <= i; j++)
+            {
                 canvas->DrawPixel(x+1+j, y+1+i, brush);
                 canvas->DrawPixel(x+1-j, y+1+i, brush);
             }
@@ -151,5 +155,7 @@ void Diamond::Draw(Canvas* canvas){
         }
     }
 }
+
+
 
 
