@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/2023055232-10-1/1/main.cc
+shapes.h
+/root/workspace/2023055232-10-1/1/shapes.h
+vector
+-
+string
+-
+
+/root/workspace/2023055232-10-1/1/shapes.cc
+shapes.h
+/root/workspace/2023055232-10-1/1/shapes.h
+
+/root/workspace/2023055232-10-1/1/shapes.h
+iostream
+-
+
